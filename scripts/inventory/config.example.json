@@ -1,0 +1,14 @@
+{
+  "roots": [
+    {
+      "id": "pc-cars",
+      "path": "C:\\DealerPhotos\\Cars",
+      "availability_hint": "unknown"
+    },
+    {
+      "id": "external-history",
+      "path": "E:\\CarArchive",
+      "availability_hint": "unknown"
+    }
+  ]
+}
