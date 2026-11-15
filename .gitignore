@@ -1,0 +1,22 @@
+# Private local inventory and machine-specific configuration
+inventory-local/
+scripts/inventory/config.local.json
+inventory-sync/local/
+inventory-sync/*.sqlite
+inventory-sync/*.sqlite3
+*.local
+.env
+.env.*
+!.env.example
+
+# Generated Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
