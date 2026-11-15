@@ -23,7 +23,7 @@ For a first checkout, from PowerShell:
 
 ```powershell
 Set-Location C:\
-git clone --branch feature/picasa-inventory-sync --single-branch https://github.com/yasin-shake/dad-project-scripts.git
+git clone --branch feature/picasa-inventory-sync --single-branch https://github.com/yasin-shake/dad-repo.git C:\dad-project-scripts
 Set-Location C:\dad-project-scripts
 ```
 
